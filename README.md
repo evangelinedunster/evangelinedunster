@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Evangeline Dunster and I use she/her pronouns. I am brand new to the data science world and look forward to learning more about it! I have an associate's degree in Liberal Arts, but I've always leaned more towards math and science so I'm excited about getting into the STEM field. 
 <!--
 **evangelinedunster/evangelinedunster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
